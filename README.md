@@ -6,10 +6,10 @@
 </h1>
 
 <h2>
-    <div align="center" style="background-image: url('https://pic.longtao.fun/pics/24/8712160154167691113610916885165716016931_gopic_.gif'); background-size: cover; background-position: center; padding: 20px;">
+    <div align="center" style="background-image: url(''); background-size: cover; background-position: center; padding: 20px;">
         <p align="center">
-        <a href="https://longtao.fun">
-            <img src="cat.webp" width="50"/>
+        <a href=" ">
+            <img src="https://cdn.pixabay.com/animation/2024/07/19/00/09/00-09-35-674_512.gif" width="50"/>
         </a>
     </p>
     </div>
