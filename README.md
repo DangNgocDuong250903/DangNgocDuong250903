@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+NgocDuong+Beibe!;" />
     
 </h1>
-
 <h2>
     <div align="center" style="background-image: url(''); background-size: cover; background-position: center; padding: 20px;">
         <p align="center">
@@ -14,7 +13,6 @@
     </p>
     </div>
 </h2>
-
 <h3 align="center">A passionate software developer from VietNam </h3>
 
 <br/>
