@@ -19,11 +19,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Multi-career**
+ 🔭 I’m currently working on **Multi-career** <br>
  
- 🌱 I’m currently learning **Docker, SpringBoot, Java, MySQL**
+ 🌱 I’m currently learning **Docker, SpringBoot, Java, MySQL** <br>
 
-💬 Ask me about : **https://github.com/DangNgocDuong250903/DangNgocDuong250903/issues**
+💬 Ask me about : **https://github.com/DangNgocDuong250903/DangNgocDuong250903/issues** <br>
 
 ⚡ Fun fact **Study IT but don't know Code**
 
