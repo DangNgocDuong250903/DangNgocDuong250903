@@ -46,7 +46,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,cpp,cs,java,spring,gradle,js,dotnet" />
+    <img src="https://skillicons.dev/icons?i=html,css,cpp,cs,java,spring,gradle,js,dotnet" /><br>
     <img src="https://skillicons.dev/icons?i=azure,github,gitlab,git,docker,mysql,mongodb" /><br>
     <img src="https://skillicons.dev/icons?i=autocad,figma,wordpress,ps" /><br>
 </div>
