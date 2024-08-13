@@ -21,7 +21,7 @@
  
  🔭 I’m currently working on **Multi-career** <br>
  
- 🌱 I’m currently learning **Docker, SpringBoot, Java, MySQL** <br>
+ 🌱 I’m currently learning **Docker, SpringBoot, Java, MySQL, js** <br>
 
 💬 Ask me about : **https://github.com/DangNgocDuong250903/DangNgocDuong250903/issues** <br>
 
@@ -46,8 +46,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,github,gitlab,figma,git" />
-    <img src="https://skillicons.dev/icons?i=java,mysql,docker,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,cpp,c++,java,spring,gradle,js" />
+    <img src="https://skillicons.dev/icons?i=autocad,azure,figma,github,gitlab,git,docker,mysql,mongodb,ps" />
+    <img src="https://skillicons.dev/icons?i=autocad,figma,wordpress,ps" /><br>
 </div>
 
 <br/>
