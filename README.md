@@ -21,7 +21,7 @@
  
  🔭 I’m currently working on **Multi-career** <br>
  
- 🌱 I’m currently learning **SpringBoot, Java, js, reactjs** <br>
+ 🌱 I’m currently learning **SpringBoot, Java, js, Reactjs** <br>
 
 💬 Ask me about : **https://github.com/DangNgocDuong250903/DangNgocDuong250903/issues** <br>
 
