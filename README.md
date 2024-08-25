@@ -16,7 +16,7 @@
 <h3 align="center">A passionate software developer from VietNam </h3>
 
 <br/>
-
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <div align="center">
  
  🔭 I’m currently working on **Multi-career** <br>
