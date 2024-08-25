@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+NgocDuong+Beibe!;" />
     
 </h1>
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 <div align="center">
 <h2>
     <div align="center" style="background-image: url(''); background-size: cover; background-position: center; padding: 20px;">
